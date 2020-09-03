@@ -6,3 +6,4 @@ They are unmodifed, except the package names.
 
 The original source are downloaded from http://java.sun.com/docs/books/effective/index.html, but are no longer provided.
 
+change to master
