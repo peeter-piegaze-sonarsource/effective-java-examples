@@ -11,6 +11,11 @@
         <name>Joshua Bloch</name>
         <url>http://java.sun.com/docs/books/effective/index.html</url>
     </organization>
+    <properties>
+        <sonar.projectKey>peeter-piegaze-sonarsource_effective-java-examples</sonar.projectKey>
+        <sonar.organization>peeter-piegaze-sonarsource</sonar.organization>
+        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+    </properties>
     <dependencies>
         <dependency>
             <groupId>junit</groupId>
