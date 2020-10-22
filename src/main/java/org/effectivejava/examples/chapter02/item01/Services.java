@@ -1,6 +1,9 @@
 // Service provider framework sketch
 
 // Noninstantiable class for service registration and access - Pages 8-9
+
+// Comment added to trigger new SonarCloud analysis
+
 package org.effectivejava.examples.chapter02.item01;
 
 import java.util.Map;
