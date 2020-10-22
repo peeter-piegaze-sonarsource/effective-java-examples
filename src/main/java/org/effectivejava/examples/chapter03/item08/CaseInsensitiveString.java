@@ -29,8 +29,8 @@ public final class CaseInsensitiveString {
 	public static void main(String[] args) {
 		CaseInsensitiveString cis = new CaseInsensitiveString("Polish");
 		String s = "polish";
-        // @SONAR_STOP
+        // @SONAR_STOP@
 		System.out.println(cis.equals(s) + "  " + s.equals(cis));
-        // @SONAR_START
-	}
+    }
+	// @SONAR_START@
 }
